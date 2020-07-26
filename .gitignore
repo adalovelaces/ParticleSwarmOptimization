@@ -1,0 +1,11 @@
+**/build/*
+Program/Animation/Test4/build/*
+*.svg
+
+RealWindData/.idea/*
+Analysis/.idea/*
+Analysis/__pycache__/*
+Analysis/venv/*
+Simulation/*
+
+*.pyc
