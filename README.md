@@ -10,7 +10,7 @@
 * set `path_folder` to the folder of this repository in `/Program/Animation/ConfigSimulation.pde`
 
 ### Run
-* open `processing-java.exe`
+* open Processing
 * open `/Program/Animation.pde`
 * run sketch
 
